@@ -23,3 +23,9 @@ small {
     color: gray;
     font-family: 'Montserrat', sans-serif;
 }
+
+.vk {
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+}
