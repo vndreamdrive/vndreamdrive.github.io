@@ -17,16 +17,16 @@ h1 {
     font-size: 4rem;
     font-weight: 400;
     margin-bottom: 1rem;
-    font-family: 'Poiret One', sans-serif;
+    font-family: 'Poiret One';
 }
 
-small {
-    color: gray;
-    font-family: 'Montserrat', sans-serif;
+i {
+    color: #cac6c6;
+    cursor: pointer;
+    transition: .2s;
+    font-size: 20px;
 }
 
-.vk {
-    position: fixed;
-    right: 20px;
-    bottom: 20px;
+i:hover {
+    color: #2a5885;
 }
